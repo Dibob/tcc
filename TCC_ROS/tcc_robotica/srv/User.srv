@@ -1,0 +1,6 @@
+string nome
+int8 tipo
+---
+bool classificacao
+
+
