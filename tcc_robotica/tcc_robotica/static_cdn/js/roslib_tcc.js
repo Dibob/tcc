@@ -1,6 +1,6 @@
 // This function connects to the rosbridge server running on the local computer on port 9090
 var rbServer = new ROSLIB.Ros({
-    url : 'ws://0.tcp.ngrok.io:10397'
+    url : 'ws://0.tcp.ngrok.io:17483'
  });
 
 var elem = document.querySelector('.js-switch');
